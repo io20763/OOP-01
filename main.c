@@ -2,8 +2,7 @@
 
 int main(int argc, char** argv)
 {
-	puts("Hi\n");
+	puts("Hi");
 
-	puts("Good day");
 	return 0;
 }
